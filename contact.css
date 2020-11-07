@@ -1,0 +1,31 @@
+*{margin:0; padding: 0; box-sizing: border-box;}
+ 
+.page{
+    width: 800px;
+    height: auto;
+    border-style: groove;
+    background-color:cadetblue
+}
+.page .img{
+    width: 644px;
+    height: 478px;
+    border-style: groove;
+    background-image: url(GIF-sir.gif);
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.name {
+    width: 435px;
+    height: 45px;
+    border-style: groove;
+    margin: auto;
+    background-color: aqua;
+    border: 2px solid;
+    border-radius: 22px;
+    font-size: 26px;
+}
+
+
+.nm {
+font-size:22px ;
+}

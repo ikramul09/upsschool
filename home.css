@@ -1,0 +1,46 @@
+*{margin:0; padding: 0; box-sizing: border-box; }
+
+.page {
+    width: 800px;
+    height: auto;
+    border-style: groove;
+   
+}
+.page .home{
+    width: 795px;
+    height: 180px;
+    border-style: groove;
+    background-color: cyan;
+}
+.page .form {
+    width: 795px;
+    height: 60px;
+    border-style: groove;
+    margin-top: 3px;
+    background-color:darkcyan;
+}
+.page .form h2{
+    text-align: center;
+}
+.page .image{
+    width: 795px;
+    height: 526px;
+    border-style: groove;
+    background-image: url('school1.jpg');
+}
+.page .info{
+    width: 795px;
+    height: 450px;
+    border-style: groove;
+    background-color: aqua;
+}
+.page .info .create{
+    width: 221px;
+    height: 50px;
+    border-style: groove;
+    float: right;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+}

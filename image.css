@@ -1,0 +1,63 @@
+*{margin:0; padding: 0; box-sizing: border-box; }
+
+.page{
+    width: 800px;
+    height: auto;
+    border-style: groove;
+}
+.page .image{
+    width: 795px;
+    height: 562px;
+    border-style: groove;
+    background-image: url('image1.jpg');
+}
+.page .image1 {
+    width: 795px;
+    height: 521px;
+    border-style: groove;
+    background-image: url('sir.jpg');
+}
+.page .image2{
+    width: 795px;
+    height: 442px;
+    border-style: groove;
+    background-image: url('student.jpg');
+}
+.page .image3{
+    width: 795px;
+    height: 379px;
+    border-style: groove;
+    background-image: url('image.jpg'); 
+}
+.page .image4{
+    width: 795px;
+    height: 772px;
+    border-style: groove;
+    background-image: url('school2.jpg'); 
+}
+.page .image5{
+    width: 795px;
+    height: 539px;
+    border-style: groove;
+    background-image: url('school4.jpg'); 
+}
+.page .image6{
+    width: 795px;
+    height: 539px;
+    border-style: groove;
+    background-image: url('school5.jpg'); 
+}
+.page .image7{
+    width: 795px;
+    height: 694px;
+    border-style: groove;
+    background-image: url('school6.jpg'); 
+}
+.page .image8{
+    width: 795px;
+    height: 768px;
+    border-style: groove;
+    background-image: url('student1.jpg'); 
+}
+
+

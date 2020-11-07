@@ -1,0 +1,100 @@
+*{margin:0; padding: 0; box-sizing: border-box;}
+
+.page{
+    width: 800px;
+    height: auto;
+    border-style: groove;
+}
+.headpart{
+    width: 794px;
+    height: 225px;
+    background-image: url('logo.jpg');
+    margin-right: 10px;
+   
+}
+.headpart img{
+    width: 794px;
+    height: 201px;
+    
+}
+.linkspart {
+    width: 796px;
+    height: 30px;
+    margin-top: 5px;
+    background-color: rgb(26, 179, 240);
+    border-style: groove;
+}
+.linkspart ul {
+    color: rgb(15, 15, 15);
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.linkspart ul li {
+    list-style: none; font-size: 16px; font-weight: bold;
+    color: black;
+}
+.linkspart ul li a:hover{
+    background-color:none;
+    color: blue;
+
+}
+.linkspart ul li a {
+    color: black;
+    text-decoration: none;
+}
+.bodypart{
+    width: 796px;
+    height: 640px;
+    border-style: groove;
+    margin-top: 10px;
+}
+.bodypart .imagepart {
+    width: 591px;
+    height: 300px;
+    border-style: groove;
+    background-image: url('GIF-school.gif');
+    display: inline-block;
+}
+.bodypart .newspart{
+    width: 200px;
+    height: 640px;
+    border-style: groove;
+    float: right;
+
+}
+.bodypart .newspart h2{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 20px;
+}
+.bodypart .newspart .about{
+    width: 198px;
+    height: 586px;
+    border-style: groove;
+}
+.bodypart .newspart .about P{
+    text-align: center;
+    font-size: 19px;
+    margin-top: 10px;
+}
+.bodypart .newspart .about h3{
+    font-size: 30px;
+    text-align: center;
+    color: brown;
+}
+.bodypart h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+.bodypart .newspart .about h4{
+    text-align: right;
+    margin-top: 10px;
+}
+.bodypart p{
+    font-size: larger;
+    margin-top: 10px;
+}

@@ -1,0 +1,36 @@
+*{margin:0; padding: 0; box-sizing: border-box;  }
+.page {
+    width: 800px;
+    height: auto;
+    border-style: groove;
+
+}
+.page .about{
+    width: 795px;
+    height: 350px;
+    border-style: groove;
+    background-color: cyan;
+   
+}
+.page .image2 {
+    width: 795px;
+    height: 720px;
+    border-style: groove;
+    margin-top: 5px;
+    background-image: url('sir1.jpg');
+    }
+ .page .info{
+     width: 795px;
+     height: 650px;
+     border-style: groove;
+     background-color: cyan;
+     margin-top: 5px;
+ }
+ .page .image{
+     width: 795px;
+     height: 605px;
+     border-style: groove;
+     margin-top: 5px;
+     background-image: url('sir2.jpg');
+ }
+ 
